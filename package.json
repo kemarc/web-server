@@ -6,6 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "dependencies": {
+    "express": "~4.13.2"
+  }
   "author": "Kemar Cockburn",
   "license": "ISC",
   "description": "Node Course Project"
